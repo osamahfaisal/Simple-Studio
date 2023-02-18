@@ -1,6 +1,6 @@
 
 # Sample-Studio
-![](https://github.com/simple-studio/gif/Animation.gif)
+<IMG SRC="gif/Animation.gif">.
   
   
 
