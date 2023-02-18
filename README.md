@@ -3,7 +3,8 @@
 <IMG SRC="gif/Animation.gif">
 <br>
 
-<h3> team members</<h3>
+# team members 
+  
 | N             | Name          |
 | ------------- | ------------- |
 | 1             | Content Cell  |
